@@ -15,3 +15,11 @@ Wykonane zadania:
 * Zadanie 01 - tak ✅
 * Zadanie 02 - tak ✅
 * Zadanie 03 - tak ✅
+
+## lab 02
+
+Wykonane zadania:
+* Zadanie 01 - tak ✅
+* Zadanie 02 - tak ✅
+* Zadanie 03 - tak ✅
+* Zadanie 04 - tak ✅
